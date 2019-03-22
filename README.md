@@ -7,7 +7,7 @@ W projekcie znajduje się 3 pliki:
 - script.js
 - style.css
 
-Zadanie polega na stworzeniu pliku JavaScript. Następnie dodaniu go w odpowiednim miejscu w pliku html.
+Zadanie polega na dodanie zawartości pliku JavaScript. Następnie dodaniu go w odpowiednim miejscu w pliku html.
 Wykorzystując język Javascript należy wykonać manipulacje na obiekcie DOM odnoszcząc się do odpowiednich 
 elementów ze strony i wykonując następującą akcję:
 (cały kod Javascript ma być zawarty w pliku script.js):
